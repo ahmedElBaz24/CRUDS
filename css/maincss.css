@@ -1,0 +1,30 @@
+body {
+  font-family: "Roboto", sans-serif;
+  height: 5000px;
+}
+
+
+@media (min-width: 576px) {}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {}
+
+::placeholder {
+  text-align: center;
+}
+
+
+#deleteAll button {
+  right: 0;
+}
+
+
+thead,
+td,
+#updateBtn,
+#deleteBtn {
+  font-size: 0.7rem;
+}
